@@ -24,7 +24,7 @@ First, create the class structure above from the existing code. Then, create som
 implement various functions.
 
 1. Other trigonometric functions
-2. A quadratic function a*x*x + b*x + c. Class must store a, b, c
+2. A quadratic function `a*x*x + b*x + c`. Class must store a, b, c
 3. A general polynomial (ie, the user specifies the coefficients to some polynomial of arbitrary power).
    **HINT**: you can assume that all the coefficients are in order from the lowest power to the highest power
 
